@@ -1,3 +1,4 @@
 # Deep-Learning-AI
- old-school deep learning algorithm\n
- Header file version comming soon
+ old-school deep learning algorithm
+
+Header file version comming soon
